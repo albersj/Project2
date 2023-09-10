@@ -1,1 +1,2 @@
 This is line1 of file3.
+Made a change to file3.
